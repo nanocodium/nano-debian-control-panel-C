@@ -1,4 +1,4 @@
-# nano-debian-control-panel-C
+# nano-mc-control-panel-C
 A fork of glitchpheonix98's unix-control-panel-C<br>
 Edited to setup a minecraft server on debian easily
 
