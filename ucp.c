@@ -4,7 +4,7 @@ int main (){
 	int choice;
 main:
 	system("clear");
-	printf("Nano Debian Control Panel 0.1\n");
+	printf("Nano's Minecraft Control Panel 0.1\n");
 	printf("\n1. Get dependencies\n2. Download minecraft 1.19.3 server\n3. Edit eula.txt\n4. run server with 4gb of ram\n5. run server with 8gb of ram\n6. exit\n");
 	printf("Type a number and hit enter: ");
 	scanf(" %d", &choice);	
